@@ -118,8 +118,7 @@ ESP32 parses and uses this to:
 - Arduino IoT Remote app
 - Optional voice via Alexa/Google Home
 
-> **Device ID:** `4c20eeb6-c003-4749-9fd6-e3d8c22c92ad`  
-> **Secret Key:** `oKDgnNIBqOaWgrT?Xy?AFpn8e`
+> **Note:** Configure your own Arduino IoT Cloud credentials in the platformio.ini file
 
 ---
 
@@ -305,4 +304,4 @@ MIT License. Use freely for learning, modify for your own project, and give cred
 
 ---
 
-**⭐ Star this repository if it helped you with your IoT project!** 
+**⭐ Star this repository if it helped you with your IoT project!**
